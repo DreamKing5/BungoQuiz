@@ -50,7 +50,7 @@ var rundom=Math.floor(Math.random()*Quiz.length);
 //問題数の表示の関数
 let count=document.getElementById("mondaisu");
 //問題数を決定する関数
-let nanmon=2;
+let nanmon=10;
 
 //問題と問題数の表示
 function Qset(){
